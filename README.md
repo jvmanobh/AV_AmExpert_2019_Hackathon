@@ -150,3 +150,9 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 2. **[Coupon_Level_aggregation](coup_agg.ipynb)
 3. **[Campaign_Level_aggregation](camp_agg.ipynb)
 4. **[Main_File](Main.ipynb)
+
+### Incase of Github Rendering Issues with Jupyter notebboks, Please click the following links:
+1. **[Customer_Level_aggregation](https://nbviewer.jupyter.org/github/jvmanobh/AV_AmExpert_2019_Hackathon/blob/master/cust_agg.ipynb)
+2. **[Coupon_Level_aggregation](https://nbviewer.jupyter.org/github/jvmanobh/AV_AmExpert_2019_Hackathon/blob/master/coup_agg.ipynb)
+3. **[Campaign_Level_aggregation](https://nbviewer.jupyter.org/github/jvmanobh/AV_AmExpert_2019_Hackathon/blob/master/camp_agg.ipynb)
+4. **[Main_File](https://nbviewer.jupyter.org/github/jvmanobh/AV_AmExpert_2019_Hackathon/blob/master/Main.ipynb)
