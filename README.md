@@ -139,8 +139,9 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 * The final rankings would be based on your private score which will be published once the competition is over.
 
 ### Leaderboard Standings
-* **[Public LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/lb)** : **26th/1021 Rank** **AUC SCore** : **0.9318037497**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/pvt_lb)** : **27th/1021 Rank** **AUC SCore** : **0.9199568571**
+* **[Public LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/lb)** : **26th/1021 Rank**(AUC Score : 0.9318037497)
+
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/pvt_lb)** : **27th/1021 Rank**(AUC Score : 0.9199568571)
 
 (6K participants)
 
